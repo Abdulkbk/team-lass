@@ -6,7 +6,8 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   width: 100vw;
   height: 100vh;
-  background-image: url('/assets/background.jpg');
+  background-image: url('/assets/bg.jpg');
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.3);
